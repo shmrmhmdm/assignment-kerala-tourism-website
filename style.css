@@ -13,3 +13,43 @@
 .login-page{
     padding-top: 8em;
 }
+.myMargin{
+    margin:20px;
+}
+#foot{
+    background-color: rgb(236, 62, 4);
+    text-align: center;
+    color:white;
+}
+.about{
+    color:green;
+    text-align: justify;
+    text-decoration: solid;
+    margin-left: 1.8em;
+    margin-right: 2em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.col-lg-2 li:hover{
+    background-color: green;
+    color:yellow;
+    transition: .6s ease-in-out;
+}
+.col-lg-2 a{
+    text-decoration: none;
+}
+.wayanad-image{
+   padding-top: 1em;
+    margin:2.5em;
+   margin-top: 5em;
+   text-align: justify;
+   margin-left: 5em;
+   padding-left: 2em;
+}
+.wayanad-image #wayanad-para{
+    text-align: justify;
+    color:darkred;
+    
+}
+.col-lg-2 h5{
+    color:blue;
+}
